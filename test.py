@@ -1,6 +1,6 @@
 def add_func(x, y):
-    pass
+    return x + y
 
 
 def sub_func(x, y):
-    pass
+    return x - y
