@@ -9,4 +9,4 @@ def mul_func(x, y):
     pass
 
 def div_func(x, y):
-    pass
+    return x / y
