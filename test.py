@@ -10,3 +10,6 @@ def mul_func(x, y):
 
 def div_func(x, y):
     return x / y
+
+
+print("Basic Calculations")
